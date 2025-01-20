@@ -359,7 +359,15 @@ button:focus:not(:focus-visible) {
   outline: 0;
 }
 
+#about{
+  background: linear-gradient(90deg, #8BBEE5, #BCC5E0);
+  box-shadow: 1px 10px 30px black;
+}
 
+header{
+  background: linear-gradient(90deg, #8BBEE5, #BCC5E0);
+  box-shadow: 1px 10px 30px black;
+}
 input{
   background: linear-gradient(to right, #B0E2FF, #E6E6FA);
 }
